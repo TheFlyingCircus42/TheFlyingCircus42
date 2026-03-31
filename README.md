@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Robert Hawkins
+# Rob Hawkins
 
 ### Junior Software Developer | London, UK
 
