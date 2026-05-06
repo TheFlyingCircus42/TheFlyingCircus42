@@ -87,8 +87,8 @@ A Reddit-style news platform with full CRUD functionality.
 * Express (Backend)
 * PostgreSQL (Database)
 
-🌐 Live Site: https://ncnews-rh.netlify.app/topics/alltopics
-🔗 Frontend: https://github.com/TheFlyingCircus42/NC-News-FE
+🌐 Live Site: https://ncnews-rh.netlify.app/home  
+🔗 Frontend: https://github.com/TheFlyingCircus42/NC-News-FE  
 🔗 Backend: https://github.com/TheFlyingCircus42/NC-News-BackEnd
 
 
