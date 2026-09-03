@@ -96,16 +96,15 @@ A Reddit-style news platform with full CRUD functionality.
 
 ## 📚 Professional Development
 
+### Sparta Full Stack Engineering with AI Course
+* A three week course diving into the fundamentals of coding with AI agents like Claude.
+
 ### 🎓 Northcoders Bootcamp
 
 **Dec 2025 – Apr 2026**
 
 * Intensive training in full-stack development
 * Focus on **TDD**, **pair programming**, and best practices
-
-### ☁️ AWS Certification *(In Progress)*
-
-* Studying for **AWS Certified SysOps Administrator – Associate**
 
 ### 🌐 The Odin Project *(Ongoing)*
 
