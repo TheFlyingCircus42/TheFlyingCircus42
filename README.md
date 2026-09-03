@@ -66,7 +66,7 @@ I'm now looking to grow within a development team where I can continue building 
 
 A **React Native mobile game** that uses geolocation to guide users through interactive riddles and challenges in their local area.
 
-🔗 https://github.com/reactiveRATs/geo-quest
+🔗 https://github.com/TheFlyingCircus42/geo-quest
 
 ---
 
